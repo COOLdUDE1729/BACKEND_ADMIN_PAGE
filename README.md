@@ -1,1 +1,1 @@
-## deployed at :- https://trialshopy-backend.onrender.com
+## deployed at :- https://trialshopy-backend.netfily.com
